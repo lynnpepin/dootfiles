@@ -1,0 +1,8 @@
+static_site_here.com {
+  root * ./static_site_here_com/
+  file_server
+  log {
+    output file static_site_here_com.log
+    format json
+  }
+}
