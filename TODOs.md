@@ -1,0 +1,3 @@
+- Require password for sudo
+- Add vscode dotfiles
+- rye/uve/etc setup?

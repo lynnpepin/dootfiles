@@ -1,3 +1,12 @@
-alias ll='exa -ll'
+alias ll='eza -ll'
+alias za="eza -la"
 alias hgrep='history | grep'
 alias bat='batcat'
+alias hgrep='history | grep'
+alias hrg='history | rg'
+alias bat='batcat'
+
+alias py="python3"
+alias python="python3"
+
+cht() { curl cht.sh/"$1"; }
