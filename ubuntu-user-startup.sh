@@ -85,7 +85,7 @@ sudo apt install git curl build-essential htop tmux
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source "$HOME/.cargo/env"
 
-cargo install eza bat fd-find jless sd difftastic du-dust cargo-binstall eza jless broot
+cargo install eza bat fd-find jless sd difftastic du-dust cargo-binstall eza jless broot ripgrep
 cargo install --locked bat
 cargo install --locked bottom
 
